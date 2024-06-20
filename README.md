@@ -14,7 +14,7 @@ in feature extraction, fusion, and result refinement, current deep learning meth
 high-resolution RSI face three key issues: limited dataset diversity, poor model generalization across diverse datasets,
 and inadequate integration of prior research findings, leading to redundant solutions and missed cumulative improvements.
 <p align="center">
-    <img src="assets/water-body-samples.png" width=800></br>
+    <img src="assets/water-body-samples.jpg" width=800></br>
     Fig.1.  Rich samples of Earth’s surface water bodies from GenFen-1 (GF1) satellite imagery. 
 
 </p>
