@@ -35,9 +35,4 @@ sensing image water-body segmentation.
 </p>
 
 
-## Others
-
-We will soon release our source codes once our work is accepted. Thank you very much for your interest in our work. 
-We hope our research will bring new perspectives and methods to the field of semantic segmentation and change detection
-of remote sensing imagery.
 
